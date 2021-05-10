@@ -1,4 +1,4 @@
 ### Dates
 
     - Assigned: 04/30/2021
-    - Due: Sunday 05/09/2021 11:59pm
+    - Due: Sunday May 09 23:59:00 PST 2021
